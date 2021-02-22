@@ -9,7 +9,7 @@ This API was an assignment for UFMG's course "Embbedded Systems Programing" inst
 - also take a look at your device's datasheet and check the requirements for 5V use, since the misuse of 5V can **damage** your device.
 
 # Repository Contents
-Requirements and hardware set up\
+Requirements and hardware setup\
 Examples\
 Library Documentation\
 Related Documents
