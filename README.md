@@ -11,8 +11,15 @@ API inspired in [RadioHead's library](https://www.airspayce.com/mikem/arduino/Ra
 - also take a look at your device's datasheet and check the requirements for 5V use, since the misuse of 5V can **damage** your device.
 
 # API Guide and examples
-Requirements and hardware setup\
-Examples\
+## Guide:
+1. [Requirements and hardware setup](https://github.com/GabPGomes/433MHz_RF_Module_STM32F4x/wiki/Requirements-and-hardware-setup)
+2. [Software configuration using STM32CubeMX](https://github.com/GabPGomes/433MHz_RF_Module_STM32F4x/wiki/Software-configuration-using--STM32CubeMX-(before-SW4STM32-configuration))
+3. [Software configuration using SW4STM32](https://github.com/GabPGomes/433MHz_RF_Module_STM32F4x/wiki/Software-configuration-using--SW4STM32-(after-STM32CubeMX-configuration))
+4. [RealTerm configuration](https://github.com/GabPGomes/433MHz_RF_Module_STM32F4x/wiki/RealTerm-configuration)
+
+## Examples
+[Receiver]link)
+[Transmitter]link)
 
 # Documentation
 Library Documentation\
