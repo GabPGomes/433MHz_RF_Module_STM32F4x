@@ -6,4 +6,10 @@ This API was an assignment for UFMG's course "Embbedded Systems Programing" inst
 **Be careful:** since the RF modules use 5V, make sure you: 
 - put the GPIO output to (Open-Drain, no pullup no pulldown) mode at STM32CubeMX and use an external pull-up resistor;
 - put the GPIO input to (input, no pullup no pulldown) mode;  
-- also take a look at your device's datasheet and check the requirements for 5V use, since the misuse of 5V can **damage** your device. 
+- also take a look at your device's datasheet and check the requirements for 5V use, since the misuse of 5V can **damage** your device.
+
+#Repository Contents
+Requirements and hardware set up\
+Examples\
+Library Documentation\
+Related Documents
