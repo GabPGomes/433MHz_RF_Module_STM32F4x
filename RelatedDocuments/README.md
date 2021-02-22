@@ -1,1 +1,3 @@
-Empty REAMDE
+- STM32F401RE Datasheet
+- STM32F401RE Reference Manual
+- RadioHead Library Documentation https://www.airspayce.com/mikem/arduino/RadioHead/
