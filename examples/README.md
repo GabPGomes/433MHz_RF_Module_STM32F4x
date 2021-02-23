@@ -1,1 +1,1 @@
-More exaplanations soon.
+More explanations soon.
