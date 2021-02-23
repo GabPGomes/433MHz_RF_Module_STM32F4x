@@ -22,5 +22,5 @@ API inspired in [RadioHead's library](https://www.airspayce.com/mikem/arduino/Ra
 [Transmitter]link)
 
 # Documentation
-Library Documentation\
-Related Documents
+[Library Documentation](https://github.com/GabPGomes/433MHz_RF_Module_STM32F4x/wiki/Library-Documentation)\
+[Related Documents](https://github.com/GabPGomes/433MHz_RF_Module_STM32F4x/tree/main/RelatedDocuments)
