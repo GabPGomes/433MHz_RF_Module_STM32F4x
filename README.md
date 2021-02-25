@@ -5,7 +5,7 @@ This API was an assignment for UFMG's course "Embbedded Systems Programing" inst
 
 API inspired in [RadioHead's library](https://www.airspayce.com/mikem/arduino/RadioHead/) made by AirSpace Pty Ltd. Copyright (C) 2011-2020 Mike McCauley.
 
-**Be careful!** Since the RF modules use 5V, make sure you: 
+**Be careful!** Since the RF modules use 5V and the STM32 is mainly 3V3, make sure you: 
 - put the GPIO output to (Open-Drain, no pullup no pulldown) mode at STM32CubeMX and use an external pull-up resistor;
 - put the GPIO input to (input, no pullup no pulldown) mode;  
 - also take a look at your device's datasheet and check the requirements for 5V use, since the misuse of 5V can **damage** your device.
