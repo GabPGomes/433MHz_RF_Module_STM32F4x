@@ -7,7 +7,7 @@ In the transmitter example, `exemplo_RFModSTM32f4x_transmissor`, the STM32F401RE
    - Don't forget to configure the other board correctly. You can use another STM32F401RE with the receiver example loaded as the second board too.
 4. Load your code to the second board;
 5. Open the receiver's terminal (it can be the Serial Port terminal) to see the messages sent.
-##### Exchanged messages
+##### Results
 The code snippet that writes the number of messages sent. The counter shown resets every ten messages:
 ![TesteTransmissor2](https://github.com/GabPGomes/433MHz_RF_Module_STM32F4x/blob/main/images/TesteTransmissor2.jpg)
 
@@ -23,6 +23,6 @@ In the receiver example, `exemplo_RFModSTM32f4x_receptor`, the STM32F401RE is pr
    - Don't forget to configure the other board correctly. You can use another STM32F401RE with the transmitter example loaded as the second board too.
 4. Load your code to the second board;
 5. Open and configure RealTerm as in the [guide](https://github.com/GabPGomes/433MHz_RF_Module_STM32F4x/wiki/RealTerm-configuration).
-##### Exchanged messages
+##### Results
 Messages sent by the Arduino nano at the right. "Enviei: 'x' " means that the 'x' character has been sent. Messages received by the STM32F401RE at the left. "Recebi: 'x' " means that the 'x' character has been received.
 ![TesteReceptor](https://github.com/GabPGomes/433MHz_RF_Module_STM32F4x/blob/main/images/TesteReceptor.jpg)
