@@ -1,5 +1,5 @@
 # Transmitter example
-In the transmitter example, `exemplo_RFModSTM32f4x_transmissor`, the STM32F401RE is programmed to send a message containing the number of packets/messages already sent since startup.
+In the transmitter example `exemplo_RFModSTM32f4x_transmissor`, the STM32F401RE is programmed to send a message containing the number of packets/messages already sent since startup.
 ##### Steps
 1. Connect the RF module's transmitter to the STM32F401RE;
 2. Load the example to SW4STM32 and then to the STM board;
