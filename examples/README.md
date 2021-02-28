@@ -15,7 +15,7 @@ The code snippet with the message received:
 ![TesteTransmissor1](https://github.com/GabPGomes/433MHz_RF_Module_STM32F4x/blob/main/images/TesteTransmissor1.jpg)
 
 # Receiver example
-In the receiver example, `exemplo_RFModSTM32f4x_receptor`, the STM32F401RE is programmed to receive a message and print it in the RealTerm terminal. It also prints the number of successfully received messages (_rxbom) as well as the number of the ones that have failed (_rxruim) since startup.
+In the receiver example, `exemplo_RFModSTM32f4x_receptor`, the STM32F401RE is programmed to receive a message and print it in the RealTerm terminal. It also prints the number of successfully received messages `_rxbom` as well as the number of the ones that have failed `_rxruim` since startup.
 ##### Steps
 1. Connect the RF module's receiver to the STM32F401RE;
 2. Load the example to SW4STM32 and then to the STM board;
