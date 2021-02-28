@@ -7,5 +7,8 @@ In the transmitter example, `exemplo_RFModSTM32f4x_transmissor`, the STM32F401RE
    - Don't forget to configure the other board correctly. You can use another STM32F401RE with the receiver example loaded as the second board too.
 4. Open the receiver's terminal (it can be the Serial Port terminal) to see the messages sent.
 ##### Message sent and the one that was received
-The code snippet that writes the number of messages sent. The counter shown resets every ten messages.
+The code snippet that writes the number of messages sent. The counter shown resets every ten messages:
 ![TesteTransmissor2](https://github.com/GabPGomes/433MHz_RF_Module_STM32F4x/blob/main/images/TesteTransmissor2.jpg)
+
+The code snippet with the message received:
+![TesteTransmissor1](https://github.com/GabPGomes/433MHz_RF_Module_STM32F4x/blob/main/images/TesteTransmissor1.jpg)
