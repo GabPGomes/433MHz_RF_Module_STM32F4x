@@ -24,5 +24,6 @@ In the receiver example, `exemplo_RFModSTM32f4x_receptor`, the STM32F401RE is pr
 4. Load your code to the second board;
 5. Open and configure RealTerm as in the [guide](https://github.com/GabPGomes/433MHz_RF_Module_STM32F4x/wiki/RealTerm-configuration).
 ##### Results
-Messages sent by the Arduino nano at the right. `Enviei: 'x'` means that the 'x' character has been sent. Messages received by the STM32F401RE at the left. `Recebi: 'x'` means that the 'x' character has been received.
+Messages sent by the Arduino nano at the right. `Enviei: 'x'` means that the 'x' character has been sent.
+Messages received by the STM32F401RE at the left. `Recebi: 'x'` means that the 'x' character has been received.
 ![TesteReceptor](https://github.com/GabPGomes/433MHz_RF_Module_STM32F4x/blob/main/images/TesteReceptor.jpg)
