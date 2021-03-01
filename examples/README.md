@@ -11,7 +11,7 @@ In the transmitter example `exemplo_RFModSTM32f4x_transmissor`, the STM32F401RE 
 The code snippet that writes the number of messages sent. The counter shown resets every ten messages:
 ![TesteTransmissor2](https://github.com/GabPGomes/433MHz_RF_Module_STM32F4x/blob/main/images/TesteTransmissor2.jpg)
 
-The code snippet with the message received:
+The receiver's terminal with the message received:
 ![TesteTransmissor1](https://github.com/GabPGomes/433MHz_RF_Module_STM32F4x/blob/main/images/TesteTransmissor1.jpg)
 
 # Receiver example
